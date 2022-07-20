@@ -30,3 +30,15 @@ tuple4 = (tuple2,tuple1,"Krishna",78,tuple3[3:5])
 print(tuple4)
 
 print(tuple4[1][3:5]) # accessing tuple inside tuple
+
+
+#check if a element is present in a tuple
+thistuple = ("apple", "banana", "cherry")
+if "apple" in thistuple:
+  print("Yes, 'apple' is in the fruits tuple")
+
+# check if a tuple is a subset of another tuple
+thistuple = ("apple", "banana", "cherry")
+thistuple2 = ("apple", "banana", "cherry", "orange")
+if thistuple2 > thistuple:
+    print("Yes, thistuple2 is a subset of thistuple")
