@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# %matplotlib inline # for Jupyter Notebook
+%matplotlib inline
 
 
 
