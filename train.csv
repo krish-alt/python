@@ -1,5 +1,5 @@
-,Unnamed: 0.1,Unnamed: 0,train_no,speed,junction
-0,0,0,12345,90,jaipur
-1,1,1,123435,161,chandigarh
-2,2,2,12354,110,Mumbai
-3,3,3,12324,134,Delhi
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,train_no,speed,junction
+0,0,0,0,12345,90,jaipur
+1,1,1,1,123435,161,chandigarh
+2,2,2,2,12354,110,Mumbai
+3,3,3,3,12324,134,Delhi
